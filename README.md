@@ -5,6 +5,11 @@
 
 <div align = "center">
   <img align="center" src= "https://github-profile-trophy.vercel.app/?username=probro27&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+  
+</div>
+
+<div align = "center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=probro27&theme=dark&layout=compact" />
 </div>
 
 
