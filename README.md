@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=probro27&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+</div>
+
+
+
 <!--
 **probro27/probro27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
