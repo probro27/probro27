@@ -3,15 +3,6 @@
 
 
 
-<div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=probro27&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
-</div>
-<br>
-<div align = "center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probro27&theme=dark&layout=compact" />
-  </p>
-</div>
 
 
 
@@ -25,6 +16,17 @@
   </a>
 </p>
 <br>
+
+
+<div align = "center">
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=probro27&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+</div>
+<br>
+<div align = "center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probro27&theme=dark&layout=compact" />
+  </p>
+</div>
 
 [![Prabhav's Graph](https://activity-graph.herokuapp.com/graph?username=probro27&custom_title=Prabhav's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
 
