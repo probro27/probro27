@@ -3,7 +3,8 @@
 <h1 align="center">
   <b>Prabhav Khera</b>
 </h1>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=400px height=400px alt="landing gif" src="https://github.com/probro27/landing-design/blob/main/PK%20.gif" />
+
 Heya! I'm Prabhav Khera, candidate of B. Computer Science(BCS) at University of Waterloo
 
 ## My Statistics
@@ -13,6 +14,7 @@ Heya! I'm Prabhav Khera, candidate of B. Computer Science(BCS) at University of 
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=probro27&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=probro27&theme=gruvbox&hide_border=true" />
+    
   </a>
 </p>
 <br>
