@@ -1,12 +1,12 @@
 
+
+<h1 align="center">
+  <b>Prabhav Khera</b>
+</h1>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+Heya! I'm Prabhav Khera, candidate of B. Computer Science(BCS) at University of Waterloo
+
 ## My Statistics
-
-
-
-
-
-
-
 
 <br/>
 <p align="left">
