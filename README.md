@@ -26,7 +26,7 @@
 </p>
 <br>
 
-[![Prabhav's Graph](https://activity-graph.herokuapp.com/graph?username=probro27&custom_title=Prabhav's%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
+[![Prabhav's Graph](https://activity-graph.herokuapp.com/graph?username=probro27&custom_title=Prabhav's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]()
 
 
 
