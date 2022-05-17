@@ -12,7 +12,7 @@ Heya! I'm Prabhav Khera, candidate of B. Computer Science(BCS) at University of 
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=probro27&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=probro27&show_icons=true&theme=nightowl&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=probro27&theme=gruvbox&hide_border=true" />
     
   </a>
@@ -26,7 +26,7 @@ Heya! I'm Prabhav Khera, candidate of B. Computer Science(BCS) at University of 
 <br>
 <div align = "center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probro27&theme=dark&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probro27&theme=nightowl&layout=compact" />
   </p>
 </div>
 
