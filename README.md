@@ -32,7 +32,7 @@ Heya! I'm Prabhav Khera, candidate of B. Computer Science(BCS) at University of 
 
 <div align = "center">
   <p>
-    <img src="[https://github.com/VinayakBector2002/probro27/blob/main/Prabhav%203D%20Contibution.png](https://skyline.martinwoodward.vercel.app/?username=probro27&year=2022)" />
+    <img src="https://github.com/VinayakBector2002/probro27/blob/main/Prabhav%203D%20Contibution.png" />
   </p>
 </div>
 
