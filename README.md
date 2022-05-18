@@ -32,8 +32,9 @@ Heya! I'm Prabhav Khera, candidate of B. Computer Science(BCS) at University of 
 
 <div align = "center">
   <p>
-<!--     <img src="https://github.com/VinayakBector2002/probro27/blob/main/Prabhav%203D%20Contibution.png" /> -->
-    ![](./profile-3d-contrib/profile-green-animate.svg)
+   <img src="./profile-3d-contrib/profile-night-view.svg" />
+<!--     ![](./profile-3d-contrib/profile-green-animate.svg) -->
+    
   </p>
 </div>
 
