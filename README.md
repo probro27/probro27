@@ -32,7 +32,7 @@ Heya! I'm Prabhav Khera, candidate of B. Computer Science(BCS) with Artificial I
 
 <div align = "center">
   <p>
-   <img src="./profile-3d-contrib/profile-night-view.svg" />
+   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 <!--     ![](./profile-3d-contrib/profile-green-animate.svg) -->
     
   </p>
