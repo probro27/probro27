@@ -12,8 +12,8 @@ Hey! I'm Prabhav Khera, candidate of B. Computer Science(BCS) with Artificial In
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=probro27&show_icons=true&theme=nightowl&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=probro27&theme=nightowl&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=probro27&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=probro27&theme=dracula&hide_border=true" />
     
   </a>
 </p>
@@ -26,7 +26,7 @@ Hey! I'm Prabhav Khera, candidate of B. Computer Science(BCS) with Artificial In
 <br>
 <div align = "center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probro27&theme=nightowl&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probro27&theme=dracula&layout=compact" />
   </p>
 </div>
 
