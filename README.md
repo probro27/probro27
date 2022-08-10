@@ -5,7 +5,7 @@
 </h1>
 <!-- <img align="right" width=400px height=400px alt="landing gif" src="https://github.com/probro27/landing-design/blob/main/PK%20.gif" /> -->
 
-Hey! I'm Prabhav Khera, candidate of B. Computer Science(BCS) with Artificial Intelligence Specialization at University of Waterloo
+Hey! I'm Prabhav Khera, candidate of B. Computer Science(BCS) with Artificial Intelligence Specialization at University of Waterloo.
 
 ## My Stats
 
