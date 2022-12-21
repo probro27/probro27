@@ -40,6 +40,6 @@ Hey! I'm Prabhav Khera, candidate of **B. Computer Science(BCS) with Artificial 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,html,css,figma,firebase,flask,flutter,git,graphql,haskell,heroku,linux,mongodb,mysql,nextjs,nodejs,postgres,py,redis,react,rust,swift,typescript,vscode" />
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,html,css,figma,firebase,flask,flutter,git,graphql,haskell,heroku,java,kotlin,linux,mongodb,mysql,nextjs,nodejs,postgres,py,redis,react,rust,swift,typescript,vscode" />
   </a>
 </p>
