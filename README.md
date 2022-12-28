@@ -26,7 +26,7 @@ Hey! I'm Prabhav Khera, candidate of **B. Computer Science(BCS) with Artificial 
 <br>
 <div align = "center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probro27&theme=dracula&layout=compact&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probro27&theme=dracula&layout=compact&langs_count=7" />
   </p>
 </div>
 
