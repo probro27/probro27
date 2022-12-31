@@ -21,7 +21,7 @@ Hey! I'm Prabhav Khera, candidate of **B. Computer Science(BCS) with Artificial 
 
 
 <div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=probro27&theme=dracula&rank=S,AAA,AA,B,C,A&margin-w=10" />
+  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=probro27&theme=dracula&rank=SECRET,SSS,SS,AAA,B&margin-w=10" />
 </div>
 <br>
 <div align = "center">
