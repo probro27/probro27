@@ -1,45 +1,29 @@
-
-
 <h1 align="center">
   <b>Prabhav Khera</b>
 </h1>
-<!-- <img align="right" width=400px height=400px alt="landing gif" src="https://github.com/probro27/landing-design/blob/main/PK%20.gif" /> -->
 
-Hey! I'm Prabhav Khera, a candidate of **B. Computer Science(BCS)** at the University of Waterloo.
+Software Engineer on the Insights team at **Cresta**. Computer Science, **University of Waterloo**.
+I build developer tooling and internal systems, mostly in Go, TypeScript, and Python.
 
-## My Stats
+## What I'm building
 
-<br/>
-<p align="center">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=probro27&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=probro27&theme=dracula&hide_border=true" />
-    
-  </a>
-</p>
-<br>
+- **MRCOG Courses CRM** — custom CRM with WhatsApp API integration, bulk email, and pipeline management.
+- **Telegram bot suite** — automated bots for course management and utilities.
 
-
-<div align = "center">
-  <img align="center" src= "https://github-profile-trophy.vercel.app/?username=probro27&theme=dracula&rank=SECRET,SSS,SS,AAA,B&margin-w=10" />
-</div>
-<br>
-<div align = "center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=probro27&theme=dracula&layout=compact&langs_count=7" />
-  </p>
-</div>
-
-<div align = "center">
-  <p>
-   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
-<!--     ![](./profile-3d-contrib/profile-green-animate.svg) -->
-    
-  </p>
-</div>
+## Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,js,html,css,figma,firebase,flask,flutter,git,graphql,haskell,heroku,java,kotlin,linux,mongodb,mysql,nextjs,nodejs,postgres,py,redis,react,rust,swift,typescript,vscode" />
+    <img src="https://skillicons.dev/icons?i=go,ts,py,rust,react,postgres,docker,aws" />
   </a>
 </p>
+
+## Contributions
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
+
+---
+
+Outside work: landscape photography around Toronto, single-player RPGs, and following FC Barcelona and the Blue Jays.
